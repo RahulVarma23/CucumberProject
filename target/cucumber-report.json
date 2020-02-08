@@ -1,0 +1,56 @@
+[
+  {
+    "source": "^User drag image from one location to another location$",
+    "steps": [
+      {
+        "name": "User drag image from one location to another location",
+        "aggregatedDurations": {
+          "average": 6.605755,
+          "median": 6.605755
+        },
+        "durations": [
+          {
+            "duration": 6.605755,
+            "location": "./src/test/java/feature/Scenarios.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User open application \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "User open application \"dragAndDropURL\"",
+        "aggregatedDurations": {
+          "average": 30.8725265,
+          "median": 30.8725265
+        },
+        "durations": [
+          {
+            "duration": 30.8725265,
+            "location": "./src/test/java/feature/Scenarios.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User logout from application$",
+    "steps": [
+      {
+        "name": "User logout from application",
+        "aggregatedDurations": {
+          "average": 0.8820662,
+          "median": 0.8820662
+        },
+        "durations": [
+          {
+            "duration": 0.8820662,
+            "location": "./src/test/java/feature/Scenarios.feature:16"
+          }
+        ]
+      }
+    ]
+  }
+]
