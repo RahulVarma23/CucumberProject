@@ -1,0 +1,56 @@
+[
+  {
+    "source": "^User select value from dropdown and get all options$",
+    "steps": [
+      {
+        "name": "User select value from dropdown and get all options",
+        "aggregatedDurations": {
+          "average": 7.5264817,
+          "median": 7.5264817
+        },
+        "durations": [
+          {
+            "duration": 7.5264817,
+            "location": "./src/test/java/feature/Scenarios.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User open application \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "User open application \"fbURL\"",
+        "aggregatedDurations": {
+          "average": 24.4874673,
+          "median": 24.4874673
+        },
+        "durations": [
+          {
+            "duration": 24.4874673,
+            "location": "./src/test/java/feature/Scenarios.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User logout from application$",
+    "steps": [
+      {
+        "name": "User logout from application",
+        "aggregatedDurations": {
+          "average": 3.0754114,
+          "median": 3.0754114
+        },
+        "durations": [
+          {
+            "duration": 3.0754114,
+            "location": "./src/test/java/feature/Scenarios.feature:7"
+          }
+        ]
+      }
+    ]
+  }
+]

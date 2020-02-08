@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="38.360348">
+<testcase classname="User verify text GMO Online on home page" name="Select value from drop down" time="38.360348">
+<system-out><![CDATA[Given User open application "dragAndDropURL"................................passed
+Then User drag image from one location to another location..................passed
+Then User logout from application...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
