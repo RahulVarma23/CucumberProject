@@ -1,6 +1,6 @@
 Feature: User verify text GMO Online on home page
 
-@test
+
    Scenario Outline: Select value from drop down
    Given User open application "<appURL>"
    When User select value from dropdown and get all options

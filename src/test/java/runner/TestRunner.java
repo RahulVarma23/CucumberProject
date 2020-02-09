@@ -25,7 +25,6 @@ retryCount = 0
 		glue="stepDefination",
 		dryRun=false,
 		monochrome = true,
-		tags= {"@test"},
 		strict=true,
 		//plugin= {"pretty", "html:target/cucumber-report"},
 		plugin= {"pretty","html:target/cucumber-report" ,
